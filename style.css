@@ -26,3 +26,7 @@ a{
   padding-right: 10px;
   background-color: #aaaa3a;
 }
+
+figcaption{
+  font-size: 12;
+}
