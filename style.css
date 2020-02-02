@@ -3,3 +3,47 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+header {
+  text-align: center;
+}
+
+img {
+  text-align: center;
+  margin: 0 auto;
+}
+
+figure{
+  text-align: center;
+}
+
+a{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #aaaa3a;
+}
+
+figcaption{
+  font-size: 12px;
+}
+
+#featured-property p {
+  margin: 0 auto;
+  text-align: center;
+  width: 800px;
+}
+
+#details{
+  display: block;
+}
+
+#details div{
+  float: left;
+  background-color: blue;
+  text-align: center;
+  width: 25%;
+}
